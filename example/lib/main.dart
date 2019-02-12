@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sweet_alert/sweet_alert.dart';
+import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
 
 void main() => runApp(MyApp());
 

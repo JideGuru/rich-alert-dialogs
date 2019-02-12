@@ -1,4 +1,4 @@
-# ✨ Flutter Sweet Alert [![pub package](https://img.shields.io/pub/v/sweet_alert.svg)](https://pub.dartlang.org/packages/sweet_alert)
+# ✨ Flutter Sweet Alert [![pub package](https://img.shields.io/pub/v/sweet_alert_dialogs.svg)](https://pub.dartlang.org/packages/sweet_alert_dialogs)
 
 A Flutter plugin for displaying sweet alert dialogs.
 
@@ -8,12 +8,12 @@ Inspired by [rich_alert](https://github.com/thedejifab/rich_alert)
 ## 🎖 Installing
 ```
 dependencies:
-  sweet_alert: "^0.1.0"
+  sweet_alert_dialogs: "^0.1.0"
 ```
 
 ## ⚡️ Import
 ```
-import 'package:sweet_alert/flutter_spinkit.dart';
+import 'package:sweet_alert/sweet_alert.dart';
 ```
 
 ## 📷 Screenshots

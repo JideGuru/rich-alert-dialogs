@@ -1,4 +1,4 @@
-name: sweet_alert
+name: sweet_alert_dialogs
 description: A Flutter plugin for displaying sweet alert dialogs.
 version: 0.0.1
 author: Olusegun Festus <guruliciousjide@gmail.com>
@@ -28,10 +28,10 @@ flutter:
 
   # To add assets to your plugin package, add an assets section, like this:
   assets:
-    - packages/sweet_alert/assets/success.png
-    - packages/sweet_alert/assets/error.png
-    - packages/sweet_alert/assets/warning.png
-    - packages/sweet_alert/assets/info.png
+    - packages/sweet_alert_dialogs/assets/success.png
+    - packages/sweet_alert_dialogs/assets/error.png
+    - packages/sweet_alert_dialogs/assets/warning.png
+    - packages/sweet_alert_dialogs/assets/info.png
   #
   # For details regarding assets in packages, see
   # https://flutter.io/assets-and-images/#from-packages

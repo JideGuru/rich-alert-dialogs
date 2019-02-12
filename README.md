@@ -1,4 +1,4 @@
-# ✨ Flutter Sweet Alert [![pub package](https://img.shields.io/pub/v/flutter_spinkit.svg)](https://pub.dartlang.org/packages/sweet_alert)
+# ✨ Flutter Sweet Alert [![pub package](https://img.shields.io/pub/v/sweet_alert.svg)](https://pub.dartlang.org/packages/sweet_alert)
 
 A Flutter plugin for displaying sweet alert dialogs.
 
@@ -15,6 +15,22 @@ dependencies:
 ```
 import 'package:sweet_alert/flutter_spinkit.dart';
 ```
+
+## 📷 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/1.jpg" width="250px">
+    </td>
+    <td align="center">
+      <img src="screenshots/2.jpg" width="250px">
+    </td>
+    <td align="center">
+      <img src="screenshots/3.jpg" width="250px">
+    </td>
+  </tr>
+</table>
 
 ## 🎮 How To Use
 

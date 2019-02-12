@@ -13,7 +13,7 @@ dependencies:
 
 ## ⚡️ Import
 ```
-import 'package:sweet_alert/sweet_alert.dart';
+import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
 ```
 
 ## 📷 Screenshots

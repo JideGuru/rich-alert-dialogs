@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rich_alert/rich_alert.dart';
+import 'package:sweet_alert/sweet_alert.dart';
 
 void main() => runApp(MyApp());
 
@@ -7,11 +7,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Rich Alert Dialog',
+      title: 'Flutter Sweet Alert Dialog',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Rich Alert Dialog'),
+      home: MyHomePage(title: 'Flutter Sweet Alert Dialog'),
     );
   }
 }
@@ -71,7 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             RaisedButton(
-              color: Colors.orange,
+              color: Colors.yellow.shade800,
               child: Text(
                 "Warning",
                 style: TextStyle(
@@ -90,13 +90,10 @@ class _MyHomePageState extends State<MyHomePage> {
                           FlatButton(
                             child: Text("OK"),
                             onPressed: (){Navigator.pop(context);},
-                            color: Colors.orange,
-                            padding: EdgeInsets.only(right: 10.0),
                           ),
                           FlatButton(
-                            child: Text("Cancel"),
+                            child: Text("Cancel",),
                             onPressed: (){Navigator.pop(context);},
-                            color: Colors.orange,
                           ),
                         ],
                       );

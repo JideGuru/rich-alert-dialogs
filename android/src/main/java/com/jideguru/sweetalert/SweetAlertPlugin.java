@@ -1,4 +1,4 @@
-package com.jideguru.richalert;
+package com.jideguru.sweetalert;
 
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
@@ -6,12 +6,12 @@ import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
 import io.flutter.plugin.common.MethodChannel.Result;
 import io.flutter.plugin.common.PluginRegistry.Registrar;
 
-/** RichAlertPlugin */
-public class RichAlertPlugin implements MethodCallHandler {
+/** SweetAlertPlugin */
+public class SweetAlertPlugin implements MethodCallHandler {
   /** Plugin registration. */
   public static void registerWith(Registrar registrar) {
     final MethodChannel channel = new MethodChannel(registrar.messenger(), "rich_alert");
-    channel.setMethodCallHandler(new RichAlertPlugin());
+    channel.setMethodCallHandler(new SweetAlertPlugin());
   }
 
   @Override

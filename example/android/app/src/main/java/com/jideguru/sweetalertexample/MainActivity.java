@@ -1,4 +1,4 @@
-package com.jideguru.richalertexample;
+package com.jideguru.sweetalertexample;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

@@ -1,4 +1,4 @@
-group 'com.jideguru.richalert'
+group 'com.jideguru.sweetalert'
 version '1.0-SNAPSHOT'
 
 buildscript {

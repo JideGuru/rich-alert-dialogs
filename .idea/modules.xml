@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rich_alert.iml" filepath="$PROJECT_DIR$/rich_alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/rich_alert_android.iml" filepath="$PROJECT_DIR$/android/rich_alert_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/rich_alert_example_android.iml" filepath="$PROJECT_DIR$/example/android/rich_alert_example_android.iml" />
+    </modules>
+  </component>
+</project>

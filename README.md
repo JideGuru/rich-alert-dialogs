@@ -8,7 +8,7 @@ Inspired by [rich_alert](https://github.com/thedejifab/rich_alert)
 ## 🎖 Installing
 ```
 dependencies:
-  sweet_alert_dialogs: "^0.1.0"
+  sweet_alert_dialogs: "^0.2.0"
 ```
 
 ## ⚡️ Import

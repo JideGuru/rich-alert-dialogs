@@ -80,7 +80,7 @@ class _RichAlertDialogState extends State<RichAlertDialog> {
     deviceHeight = orientation == Orientation.portrait
         ? screenSize.height
         : screenSize.width;
-    dialogHeight = deviceHeight * (2 / 5);
+    dialogHeight = deviceHeight * (0.45);
 
     return MediaQuery(
       data: MediaQueryData(),

@@ -1,6 +1,6 @@
 name: sweet_alert_dialogs
-description: A Flutter plugin for displaying sweet alert dialogs.
-version: 0.0.1
+description: A Flutter plugin for displaying sweet alert dialogs without hassle.
+version: 0.1.0
 author: Olusegun Festus <guruliciousjide@gmail.com>
 homepage: https://github.com/JideGuru/rich-alert-dialogs
 

@@ -4,14 +4,15 @@ A Flutter plugin for displaying sweet alert dialogs.
 
 Inspired by [rich_alert](https://github.com/thedejifab/rich_alert)
 
-
 ## 🎖 Installing
+
 ```yaml
 dependencies:
   sweet_alert_dialogs: "^0.2.0"
 ```
 
 ## ⚡️ Import
+
 ```dart
 import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
 ```
@@ -59,16 +60,18 @@ showDialog(
 
 ## 🐛 Bugs/Requests
 
-If you encounter any problems feel free to open an issue. If you feel the library is
-missing a feature, please raise a ticket on Github and I'll look into it.
-Pull request are also welcome.
+If you encounter any problems feel free to open an issue. If you feel the
+library is missing a feature, please raise a ticket on Github and I'll look into
+it. Pull request are also welcome.
 
 ### ❗️ Note
 
 For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
 
-For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
+For help on editing plugin code, view the
+[documentation](https://flutter.io/platform-plugins/#edit-code).
 
 ## ⭐️ License
+
 MIT Licence

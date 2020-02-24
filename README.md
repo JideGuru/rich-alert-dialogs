@@ -6,13 +6,13 @@ Inspired by [rich_alert](https://github.com/thedejifab/rich_alert)
 
 
 ## 🎖 Installing
-```
+```yaml
 dependencies:
   sweet_alert_dialogs: "^0.2.0"
 ```
 
 ## ⚡️ Import
-```
+```dart
 import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
 ```
 
@@ -34,7 +34,7 @@ import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
 
 ## 🎮 How To Use
 
-```
+```dart
 showDialog(
     context: context,
     builder: (BuildContext context) {
